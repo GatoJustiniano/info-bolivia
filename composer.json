@@ -1,18 +1,18 @@
 {
     "name": "gatojustiniano/info-bolivia",
     "description": "información de los departamentos de Bolivia, por cada departamento sus respectivas provincias, y luego sus municipios.",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "GatoJustiniano\\InfoBolivia\\": "src/"
+            "Gatojustiniano\\InfoBolivia\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "GatoJustiniano\\InfoBolivia\\MiPaqueteServiceProvider"
-            ],
-            "aliases": {}
+                "Gatojustiniano\\InfoBolivia\\MiPaqueteServiceProvider"
+            ]
         }
     },
     "authors": [

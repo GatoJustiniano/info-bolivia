@@ -1,6 +1,6 @@
 <?php
 
-namespace GatoJustiniano\InfoBolivia;
+namespace Gatojustiniano\InfoBolivia;
 
 use Illuminate\Support\ServiceProvider;
 
