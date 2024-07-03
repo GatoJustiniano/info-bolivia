@@ -4,13 +4,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gatojustiniano\\InfoBolivia\\": "src/"
+            "GatoJustiniano\\InfoBolivia\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Gatojustiniano\\InfoBolivia\\MiPaqueteServiceProvider"
+                "GatoJustiniano\\InfoBolivia\\MiPaqueteServiceProvider"
             ],
             "aliases": {}
         }
