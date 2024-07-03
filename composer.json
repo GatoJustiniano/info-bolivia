@@ -7,6 +7,14 @@
             "Gatojustiniano\\InfoBolivia\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gatojustiniano\\InfoBolivia\\MiPaqueteServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
     "authors": [
         {
             "name": "GatoJustiniano",
