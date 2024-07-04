@@ -21,6 +21,6 @@
             "email": "andres95liverpool@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
